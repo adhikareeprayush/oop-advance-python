@@ -1,0 +1,3 @@
+I love python programming
+Python makes data manipulation easy
+Appended line: Learning Python is fun!
